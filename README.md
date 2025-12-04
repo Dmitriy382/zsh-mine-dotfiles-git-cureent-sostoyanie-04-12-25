@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="/assets/white_vertical_icon.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 # ZSH-MINE-DOTFILES-GIT-CUREENT-SOSTOYANIE-04-12-25
 
