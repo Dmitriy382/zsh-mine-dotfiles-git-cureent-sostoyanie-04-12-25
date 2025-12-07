@@ -20,7 +20,7 @@
     
 
 ---
-Neovim By Lazy
+Neovim By Lazy + ZSH
 ---
 
 +++
