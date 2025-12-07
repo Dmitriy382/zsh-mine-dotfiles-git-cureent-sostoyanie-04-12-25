@@ -18,3 +18,29 @@
         ║                                                    ║"
         ╚════════════════════════════════════════════════════╝"
     
+
+---
+Neovim By Lazy
+---
+
++++
+Downloading:
+ - kitty
+ - zsh
+ - bottom
+ - yazi
+ - nvim
+ - vim
+ - telegram-desktop
+ - firefox
+
+
+---
+How to use ?
+```
+git clone https://github.com/stakingsnakes/MineNvimZSHrc-dotfiles.git
+cd MineNvimZSHrc-dotfiles
+chmod +x install-all-need.sh
+./install-all-need.sh      
+```
+
